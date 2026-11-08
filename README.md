@@ -79,10 +79,7 @@ I started building software in 2023 and have worked professionally since 2024. M
 
 | Organization | Work | Period |
 | --- | --- | --- |
-| **AKB-Master** | Remote software development | Nov 2025 – present * |
 | **Logistics software projects** | Web applications and business automation | 2026 * |
-| **GlobStudy** | Frontend development | Apr – Oct 2025 * |
-| **EIT** | Software development | May – Sep 2025 * |
 | **Inexbrand** | Frontend development | Jan 2024 – Mar 2025 * |
 
 <sub>* Dates are approximate; some work was done for clients or within teams.</sub>
@@ -105,7 +102,7 @@ I started building software in 2023 and have worked professionally since 2024. M
 
 - **SRH University Heidelberg**: B.Sc. Artificial Intelligence in Applied Sciences *(2026 – present)*
 - **British Management University, Tashkent**: Foundation studies *(2025 – 2026)*
-- **Oxford International School**: Secondary education
+- **Oxford International School**: High school
 
 ## 📈 GitHub Activity
 
